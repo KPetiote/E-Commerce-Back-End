@@ -1,3 +1,6 @@
+// TAG MODEL
+// ---------------------------------------------------------------------------
+
 // Import important parts of sequelize library
 const { Model, DataTypes } = require('sequelize');
 
