@@ -51,12 +51,12 @@ npm run start
 The program will then initialize and function as shown in the demo.
 
 ## Technologies
-- Dotenv
-- Express
-- Javascript
-- MySQL
-- Node.js
-- Sequelize
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [Express](https://www.npmjs.com/package/express)
+- [Javascript](https://www.javascript.com/)
+- [MySQL](https://www.mysql.com/)
+- [Node.js](https://nodejs.org/en/about/)
+- [Sequelize](https://sequelize.org/)
 
 ## Links
 - [Github Repository URL](https://github.com/Kpetiote/E-Commerce-Back-End)
