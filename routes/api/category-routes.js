@@ -1,3 +1,6 @@
+// CATEGORY ROUTES
+// ---------------------------------------------------------------------------
+
 const router = require('express').Router();
 
 // Use object destructuring to import our two models by name
