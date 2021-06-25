@@ -25,20 +25,28 @@ User should be able to create, delete and update data in the database system.
 ![Alt text](./assets/images/E-Commerce-Back-End.png "E-Commerce-Back-End")
 
 ## Program Installation
-To use this program we will need to install Node.js\
+To use this program we will need to install Node.js & MySQL Workbench.\
 Please use the link below to download a suitable version for your OS:
 
 [Node.js Downloads](https://nodejs.org/en/download/)
 
+[MySQL Workbench Downloads](https://dev.mysql.com/downloads/workbench/)
+
 Once installed we can use your command-line interface\
 (Git/Terminal - MacOS, Linux & Ubuntu, CMD/Git - Windows)\
-to run browse to the main repository, then run the following command:
+to run browse to the main repository, then run the following commands:
+
+```bash
+npm run seed
+```
+
+To seed data to your database so to test the routes.
 
 ```bash
 npm install
 ```
 
-The package.json will install the necessary dependencies for the program to run.
+To install the necessary dependencies from the package.json for the program to run.
 
 ## Program Usage
 After using the program installation instructions, we can then start using the program\
